@@ -112,7 +112,7 @@
 
 	<div class="center">
 		<button class="btn">
-			<a href="https://www.youtube.com/channel/UCcA6GyoRrRcWTUIHx2O9evw?sub_confirmation=1" target"_blank">❖YOUTUBE</a>
+			<a href="https://www.youtube.com/channel/UCcA6GyoRrRcWTUIHx2O9evw?sub_confirmation=1" target="_blank">❖YOUTUBE</a>
 			<a href="https://www.myherbalife.com/" target="_blank">❖Herbalife Home Page</a>
 			<a href="https://www.instagram.com/nalinisreefitmom/?hl=en" target="_blank">❖INSTAGRAM</a>
 			<a href="https://docs.google.com/forms/d/1vWA7QwrdpdzK1N1LgmDEuvLODC-faeXbrH-q9DYddVY/prefill" target="_blank">❖GOOGLE FORM</a>
