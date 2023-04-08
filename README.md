@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Vertical Links in Centered Button</title>
 	<style>
 		body {
-			background-image: url('https://wallpapercave.com/wp/wp4677845.jpg');
+			background-image: url('https://images-cdn.welcomesoftware.com/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==');
 			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center;
