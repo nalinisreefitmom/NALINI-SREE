@@ -40,30 +40,6 @@
 			position: relative;
 		}
 
-		.btn::before {
-			content: '';
-			position: absolute;
-			top: -10px;
-			right: -10px;
-			bottom: -10px;
-			left: -10px;
-			background-color: #fff;
-			border-radius: 50%;
-			transform: scale(0);
-			transition: transform 0.3s ease;
-			z-index: -1;
-		}
-
-		.btn:hover::before {
-			transform: scale(1);
-		}
-
-		.btn:hover {
-			transform: translateY(-2px);
-			background-color: #00c3ff;
-			box-shadow: 0px 5px 10px rgba(0,0,0,0.5);
-		}
-
 		.btn a {
 			display: block;
 			margin: 20px 0;
@@ -83,43 +59,18 @@
 			transform: translateY(-2px);
 			box-shadow: 0px 5px 10px rgba(0,0,0,0.5);
 		}
-
-		.btn span {
-			font-size: 14px;
-			position: absolute;
-			top: 10px;
-			left: 50%;
-			transform: translateX(-50%);
-			text-transform: uppercase;
-			letter-spacing: 2px;
-			font-weight: bold;
-		}
-
-		.nalini-sree {
-			font-size: 30px;
-			text-align: center;
-			margin-top: 50px;
-			text-transform: uppercase;
-			letter-spacing: 5px
-			font-weight: bold;
-			color: #fff;
-			text-shadow: 0px 2px 5px rgba(0,0,0,0.5);
-		}
 	</style>
 </head>
-<body>
-	
-		
 
+<body>
 	<div class="center">
 		<button class="btn">
-			<a href="https://www.youtube.com/channel/UCcA6GyoRrRcWTUIHx2O9evw?sub_confirmation=1" target="_blank">❃YOUTUBE</a>
-			<a href="https://www.myherbalife.com/" target="_blank">❃Herbalife Home Page</a>
-			<a href="https://www.instagram.com/nalinisree.24/" target="_blank">❃INSTAGRAM</a>
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLScfHgh4qxjfgQLEewLuf6UJC2c4lTXrJfJi-zhX6GZZqPpZ0A/viewform?usp=header" target="_blank">❃GOOGLE FORM</a>
-			<a href="https://t.me/+U4diHV1mbIWMGPIw" target="_blank">❃TELEGRAM</a>
+			<a href="https://www.youtube.com/channel/UCcA6GyoRrRcWTUIHx2O9evw?sub_confirmation=1" target="_blank">❃ YOUTUBE</a>
+			<a href="https://www.myherbalife.com/" target="_blank">❃ Herbalife Home Page</a>
+			<a href="https://www.instagram.com/nalinisree.24/" target="_blank">❃ INSTAGRAM</a>
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLScfHgh4qxjfgQLEewLuf6UJC2c4lTXrJfJi-zhX6GZZqPpZ0A/viewform" target="_blank">❃ GOOGLE FORM</a>
+			<a href="https://t.me/+U4diHV1mbIWMGPIw" target="_blank">❃ TELEGRAM</a>
 		</button>
 	</div>
 </body>
 </html>
-
